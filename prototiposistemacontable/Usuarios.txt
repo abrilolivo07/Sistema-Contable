@@ -1,0 +1,5 @@
+admin07;0707;BA CONTASOFT;N/A;N/A;admin;
+Brismar11;112028;normal;Brismar;Tejada Ventura;tejadaventurabrismar@gmail.com;
+modificarTest;newpass;admin;Modificado;Usuario;originalusuario@gmail.com;
+abrilolivo;abi;normal;Abril;Olivo Guzmán;arletteolivo123@gmail.com;
+fmj;1234;normal;Fausto Antonio;Martinez;fmj@gmail,com;
