@@ -1,0 +1,4 @@
+1;Activos;General;1;0;Activo;2025-11-27;17:37:32;0.0;0.0;0.0;
+11;Activos Circulantes;General;2;1;Activo;2025-11-27;17:39:19;0.0;0.0;0.0;
+1101;Efectivo en Caja;General;3;11;Activo;2025-11-27;17:40:48;0.0;0.0;0.0;
+11011;Caja Chica;Detalle;4;1101;Activo;2025-11-27;17:43:24;0.0;0.0;0.0;

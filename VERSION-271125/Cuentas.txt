@@ -1,0 +1,41 @@
+﻿1;Activos;General;1;0;Activo;2025-11-23;16:49:23;0.0;0.0;0.0;
+
+11;Activos Circulantes;General;2;1;Activo;2025-11-23;17:10:08;0.0;0.0;0.0;
+
+1101;Efectivo en Caja;General;3;11;Activo;2025-11-23;17:11:11;0.0;0.0;0.0;
+
+11011;Caja Chica;General;4;1101;Activo;2025-11-23;17:11:59;0.0;0.0;0.0;
+
+1102;Efectivo en Bancos;General;3;11;Activo;2025-11-23;17:12:47;0.0;0.0;0.0;
+
+11021;Banco Poular Dominicano;Detalle;4;1102;Activo;2025-11-23;17:22:20;0.0;0.0;0.0;
+
+11022;Banco BHD;Detalle;4;1102;Activo;2025-11-23;18:26:02;0.0;0.0;0.0;
+
+11023;Banco Santa Cruz;Detalle;4;1102;Activo;2025-11-23;18:26:51;0.0;0.0;0.0;
+
+11025;Cuenta de Nómina;Detalle;4;1102;Activo;2025-11-23;18:28:22;0.0;0.0;0.0;
+
+11026;Cuenta de Ahorros;Detalle;4;1102;Activo;2025-11-23;18:29:50;0.0;0.0;0.0;
+
+1103;Fondos en Caja;General;3;11;Activo;2025-11-23;18:30:40;0.0;0.0;0.0;
+
+11031;Fondo para Caja Registradora;Detalle;4;1103;Activo;2025-11-23;18:33:43;0.0;0.0;0.0;
+
+1104;Valores Negociables;General;3;11;Activo;2025-11-23;18:58:33;0.0;0.0;0.0;
+
+11041;Depósitos a Plazo Fijo;Detalle;4;1104;Activo;2025-11-23;19:25:19;0.0;0.0;0.0;
+
+11042;Intereses por Cobrar;Detalle;4;1104;Activo;2025-11-23;19:27:01;0.0;0.0;0.0;
+
+1105;Cuentas por Cobrar;General;3;11;Activo;2025-11-23;19:30:05;0.0;0.0;0.0;
+
+11051;Cuentas por Cobrar (Interfaz);Detalle;4;1105;Activo;2025-11-23;19:34:01;0.0;0.0;0.0;
+
+2;Pasivos;General;1;0;Pasivo;2025-11-23;19:56:30;0.0;0.0;0.0;
+
+3;Capital;General;1;0;Capital;2025-11-23;19:57:24;0.0;0.0;0.0;
+
+4;Ingresos;General;1;0;Ingresos;2025-11-23;19:58:08;0.0;0.0;0.0;
+
+51013;Devoluciones sobre Compras de Materiales;Detalle;4;5101;Gastos;2025-11-23;19:59:28;0.0;0.0;0.0;
